@@ -1,4 +1,3 @@
-/*
 // Conversion to Number
 let score = undefined
 console.log(typeof score)
@@ -33,7 +32,7 @@ console.log(stringNumber)
 
 
 //********* Operations **********/
-/*
+
 let value = 3
 let negValue = -value
 console.log(negValue)
@@ -57,7 +56,7 @@ console.log(typeof val)
 
 val = 2 + 4 + "7" + 1
 console.log(typeof val)
-*/
+
 
 /*
 NOTE:
